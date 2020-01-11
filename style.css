@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.sender-column {
+    text-align: right;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+p,ul,ol,dl,address {
+    line-height: 1.1em;
+    text-align: justify;
+}
+
+p,li,dd,dt,address {
+    line-height: 1.5;
+}
+
+
+
